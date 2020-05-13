@@ -1,0 +1,4 @@
+1. 8/8
+2. 3/8 Set up conditional probability and attempted filtering. First conditional probability setup is correct, need to filter numerator and denominator there
+
+Grade: 11/16

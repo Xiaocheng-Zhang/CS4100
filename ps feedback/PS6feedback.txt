@@ -1,0 +1,4 @@
+93/100
+ 1. 1.2 is computed improperly (also please use decimals rather than fractions) —> -2
+ 2. 2.9 must state that you are normalizing using f5; some small errors in 2.11 —> -5
+ 3. All correct

@@ -1,0 +1,9 @@
+85/100
+1. 30/40
+    1. 5/5
+    2. 2/10 —> incorrect analysis of what occurs for +inf and -inf
+    3. 10/10
+    4. 10/10
+    5. 3/5 —> must reference cross validation
+2. 30/30
+3. 25/30 —> must discuss more about the architecture itself

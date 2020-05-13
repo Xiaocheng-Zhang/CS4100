@@ -1,0 +1,8 @@
+5. 20/20
+    1. 2/2
+    2. 5/5
+    3. 5/5
+    4. 8/8
+6. 13/14
+    1. 10/11 —> all weights are correct, biases should be whole numbers
+    2. 3/3

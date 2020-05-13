@@ -1,0 +1,11 @@
+1. Can be simplified but good implementation.
+2. Good splitting of functionality across different functions.
+3. Same as above.
+4. 
+5. Good implementation, takes everything into account. 
+
+Additional Notes:
+
+Autograder output: 25/25
+
+Overall Grade: 100/100

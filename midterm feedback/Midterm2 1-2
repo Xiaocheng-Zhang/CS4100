@@ -1,0 +1,19 @@
+1.1 2/4
+Q(B,Right) is incorrect. Should be 3.75
+
+1.2 4/4
+
+1.3a 3/4
+Right, Left, 24, 20. Incorrect Bellman
+
+1.3b 0/2
+i. the values found above
+
+2 8/10
+True
+True
+False
+True
+False
+
+17/24

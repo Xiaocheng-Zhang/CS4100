@@ -1,0 +1,11 @@
+1-4. These could be abstracted but good implementations!
+5. Good concise code, very readable!
+6. Good code, implementation looks clean (and more importantly, correct).
+7. Good implementation
+8. Good implementation
+
+Additional Notes: Code was very clean and correct throughout, nicely done!
+
+Autograder Output: 26/25
+
+Overall Grade: 103/100
